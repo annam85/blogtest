@@ -1,13 +1,13 @@
 # Site settings
-title:          Amass, bridge and combine
+title:          Blogtest name
 description:    ""
 baseurl:        "/blogtest/"
 url:            "https://annam85.github.io/blogtest/"
 
 # Author
 author:
-  name:         Baptiste Marescaux
-  email:        baptiste@gmail.com
+  name:         So far none
+  email:        
 
 # Build settings
 markdown:       kramdown
